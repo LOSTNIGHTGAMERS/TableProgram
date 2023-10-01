@@ -1,0 +1,14 @@
+D:\RD\C#\TableProgram\TableProgram\bin\Debug\net6.0\TableProgram.exe
+D:\RD\C#\TableProgram\TableProgram\bin\Debug\net6.0\TableProgram.deps.json
+D:\RD\C#\TableProgram\TableProgram\bin\Debug\net6.0\TableProgram.runtimeconfig.json
+D:\RD\C#\TableProgram\TableProgram\bin\Debug\net6.0\TableProgram.dll
+D:\RD\C#\TableProgram\TableProgram\bin\Debug\net6.0\TableProgram.pdb
+D:\RD\C#\TableProgram\TableProgram\obj\Debug\net6.0\TableProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\RD\C#\TableProgram\TableProgram\obj\Debug\net6.0\TableProgram.AssemblyInfoInputs.cache
+D:\RD\C#\TableProgram\TableProgram\obj\Debug\net6.0\TableProgram.AssemblyInfo.cs
+D:\RD\C#\TableProgram\TableProgram\obj\Debug\net6.0\TableProgram.csproj.CoreCompileInputs.cache
+D:\RD\C#\TableProgram\TableProgram\obj\Debug\net6.0\TableProgram.dll
+D:\RD\C#\TableProgram\TableProgram\obj\Debug\net6.0\refint\TableProgram.dll
+D:\RD\C#\TableProgram\TableProgram\obj\Debug\net6.0\TableProgram.pdb
+D:\RD\C#\TableProgram\TableProgram\obj\Debug\net6.0\TableProgram.genruntimeconfig.cache
+D:\RD\C#\TableProgram\TableProgram\obj\Debug\net6.0\ref\TableProgram.dll
